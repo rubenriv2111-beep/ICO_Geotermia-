@@ -1,0 +1,22 @@
+# Datos geoespaciales pesados
+*.tif
+*.TIF
+*.tiff
+*.TIFF
+
+# Productos Landsat
+LC09_*/
+
+# Archivos temporales de QGIS
+*.qgz~
+*.qgs~
+*.gpkg-shm
+*.gpkg-wal
+
+# Python
+__pycache__/
+*.pyc
+
+# Entorno virtual
+.venv/
+venv/

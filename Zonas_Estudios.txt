@@ -1,0 +1,3 @@
+Nombre,Latitud,Longitud
+CFE Cerro Prieto,32.4115,-115.2613
+San Felipe,31.0250,-114.8320
